@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mvi-initial" />
             <option value="$PROJECT_DIR$/mvi-orbit" />
+            <option value="$PROJECT_DIR$/mvvm-initial" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -16,3 +16,4 @@ rootProject.name = "android-architecture-playground"
 include ':app'
 include ':mvi-initial'
 include ':mvi-orbit'
+include ':mvvm-initial'
