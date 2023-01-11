@@ -71,7 +71,6 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, sideEffect.text, Toast.LENGTH_SHORT).show()
             }
             is MviOrbitSideEffect.Click -> {
-                Log.d("Click effect", "Click effect")
                 Toast.makeText(this, sideEffect.text, Toast.LENGTH_SHORT).show()
             }
             MviOrbitSideEffect.Hide -> {
