@@ -4,7 +4,7 @@ This repository shows varoius types of architecture pattern and principles.
 
 ## `MVI Initial`
 
-In this repository, it shows the simplest implementation of `Model-View-Intent`.
+In this repository, a simple example shows the simplest implementation of `Model-View-Intent`.
 
 ## `MVI Orbit`
 
