@@ -2,12 +2,12 @@
 
 This repository shows varoius types of architecture pattern and principles.
 
-## MVI-Initial
+## `MVI Initial`
 
-## MVI-Orbit
+## `MVI Orbit`
 
-## MVVM-Initial
+## `MVVM Initial`
 
-## VIPER-Initial
+## `VIPER Initial`
 
 
